@@ -6,4 +6,4 @@ description: "Hello World"
 
 This is my first post on my new fake blog! How exciting!
 
-Hallo ini laravel
+Hallo ini laravel ada perubahan dikit
