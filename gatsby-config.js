@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Anfasa Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Rizky Anfasa Farras Mada`,
+      summary: `who lives and works in Yogyakarta building useful things.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `Just Description`,
+    siteUrl: `https://anfasa.dev/`,
     social: {
-      twitter: `kylemathews`,
+      instagram: `rizkyanfasafm`,
     },
   },
   plugins: [
