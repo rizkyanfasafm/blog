@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Anfasa Blog`,
+    title: `Anfasa Blog!`,
     author: {
       name: `Rizky Anfasa Farras Mada`,
-      summary: `who lives and works in Yogyakarta building useful things.`,
+      summary: `Programming, Reading, Sleeping 😜`,
     },
     description: `Just Description`,
     siteUrl: `https://anfasa.dev/`,
@@ -121,7 +121,7 @@ module.exports = {
         // https://css-tricks.com/meta-theme-color-and-trickery/
         // theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/leaf-icon.png`, // This path is relative to the root of the site.
       },
     },
     `gatsby-plugin-react-helmet`,
